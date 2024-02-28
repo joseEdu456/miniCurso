@@ -1,1 +1,2 @@
 # miniCurso
+bla bla 
